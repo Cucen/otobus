@@ -29,7 +29,6 @@ import android.widget.TextView;
 
 import com.androidquery.AQuery;
 import com.google.gson.internal.bind.ReflectiveTypeAdapterFactory.Adapter;
-import com.msi.android.home.R;
 
 public class AudioPlayerActivity extends JSonParseActivity implements OnSeekBarChangeListener, OnItemClickListener{
 

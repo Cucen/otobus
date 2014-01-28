@@ -3,14 +3,14 @@
         "results":[
             {
                 "category":"cocuk",
-				"image":"astek/picture/sport.png",
+				"image":"astek/picture/Sport.png",
 				"nametext":"Çocuk",
 				"directory":"cocuk",
 				"readfile":"astek/configfiles/json/tvcocuk.json"
             },
             {
                 "category":"haber",
-				"image":"astek/picture/western.png",
+				"image":"astek/picture/Western.png",
 				"nametext":"Haber",
 				"directory":"haber",
 				"readfile":"astek/configfiles/json/tvhaber.json"
@@ -24,7 +24,7 @@
             },
             {
                 "category":"dini",
-				"image":"astek/picture/dini.png",
+				"image":"astek/picture/Dini.png",
 				"nametext":"Dini",
 				"directory":"dini",
 				"readfile":"astek/configfiles/json/tvdini.json"

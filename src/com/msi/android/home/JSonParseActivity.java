@@ -11,7 +11,7 @@ import android.app.Activity;
 import android.os.Bundle;
 import android.os.Environment;
 
-import com.mobilimsel.util.JSonParser;
+import com.astek.util.JSonParser;
 
 public class JSonParseActivity extends Activity {
 

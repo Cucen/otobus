@@ -15,10 +15,9 @@ import android.view.View.OnClickListener;
 import android.widget.ImageButton;
 import android.widget.TextView;
 
-import com.mobilimsel.util.ADBService;
-import com.mobilimsel.util.JSonLanguageConfigFile;
-import com.mobilimsel.util.JSonList;
-import com.msi.android.home.R;
+import com.astek.util.ADBService;
+import com.astek.util.JSonLanguageConfigFile;
+import com.astek.util.JSonList;
 
 public class AndroidActivity extends JSonParseActivity implements
 		OnClickListener {

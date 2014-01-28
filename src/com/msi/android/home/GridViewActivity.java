@@ -23,8 +23,7 @@ import android.widget.AdapterView.OnItemClickListener;
 import android.widget.GridView;
 import android.widget.Toast;
 
-import com.mobilimsel.util.JSonList;
-import com.msi.android.home.R;
+import com.astek.util.JSonList;
 import com.msi.android.home.AppInfoAdapter.ViewHolder;
 
 public class GridViewActivity extends JSonParseActivity {

@@ -2,7 +2,6 @@ package com.msi.android.home;
 
 import java.io.IOException;
 import java.util.concurrent.TimeUnit;
-
 import android.annotation.SuppressLint;
 import android.app.Activity;
 import android.graphics.drawable.Drawable;
@@ -18,9 +17,7 @@ import android.widget.RelativeLayout;
 import android.widget.SeekBar;
 import android.widget.SeekBar.OnSeekBarChangeListener;
 import android.widget.TextView;
-
 import com.androidquery.AQuery;
-import com.msi.android.home.R;
 
 public class MusicAnaActivity extends Activity implements OnSeekBarChangeListener{
 
