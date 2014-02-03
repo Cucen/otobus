@@ -1,0 +1,38 @@
+{
+    "responseData":{
+        "results":[
+            {
+                "category":"nirvana",
+				"image":"astek/picture/music/nirvana.jpg",
+				"nametext":"Nirvana",
+				"directory":"NIRVANA",
+				"readfile":"astek/configfiles/json/nirvana.json",
+				"filmdtvmusic":"music"
+            },
+            {
+                "category":"arcadefire",
+				"image":"astek/picture/music/arcadefire.jpg",
+				"nametext":"Arcade Fire",
+				"directory":"Arcade Fire",
+				"readfile":"astek/configfiles/json/arcadefire.json",
+				"filmdtvmusic":"music"
+            },
+            {
+                "category":"sonicyouth",
+				"image":"astek/picture/music/sonicyouth.jpg",
+				"nametext":"Sonic Youth",
+				"directory":"sonicyouth",
+				"readfile":"astek/configfiles/json/sonicyouth.json",
+				"filmdtvmusic":"music"
+            },
+            {
+                "category":"postalservice",
+				"image":"astek/picture/music/PostalService.jpg",
+				"nametext":"Postal Service",
+				"directory":"postalservice",
+				"readfile":"astek/configfiles/json/postalservice.json",
+				"filmdtvmusic":"music"
+            }			
+            ]
+        }
+    }

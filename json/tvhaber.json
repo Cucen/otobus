@@ -1,0 +1,21 @@
+{
+    "responseData":{
+        "results":[
+            {
+                "category":"haber",
+				"nametext":"Samanyolu Haber",
+                "image":"astek/picture/yumurcak.jpg",
+				"directory":"rtsp://media2.kure.tv:1935/live/yumurcak1",
+				"filmdtvmusic":"dtv"
+            },
+            {
+                "category":"haber",
+				"nametext":"CNBC",
+                "image":"astek/picture/cnbc.jpg",
+				"directory":"mms://85.111.3.55/ntvspor",
+				"filmdtvmusic":"dtv"
+            }
+            ]			
+        }
+    }
+	

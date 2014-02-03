@@ -1,0 +1,23 @@
+{
+    "responseData":{
+        "results":[
+            {
+                "category":"cengizkurtoglu",
+				"image":"astek/picture/music/fundaarar.jpg",
+				"nametext":"Funda Arar",
+				"directory":"FUNDA ARAR",
+				"readfile":"astek/configfiles/json/fundaarar.json",
+				"filmdtvmusic":"music"
+            },
+            {
+                "category":"cengizkurtoglu",
+				"image":"astek/picture/music/cengizkurtoglu.jpg",
+				"nametext":"Cengiz Kurtoðlu",
+				"directory":"Cengiz Kurtoðlu - Sessizce (2010)",
+				"readfile":"astek/configfiles/json/cengizkurtoglu.json",
+				"filmdtvmusic":"music"
+            }
+           		
+            ]
+        }
+    }
